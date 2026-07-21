@@ -77,10 +77,9 @@ geo-hide: Ignored 'intel.com'
 
 1. Download `domains.txt` from GitHub.
 2. Parse the file.
-3. Remove comments and empty lines.
-4. Clear existing static entries from the target Address List.
-5. Import new FQDN entries.
-6. RouterOS automatically resolves and maintains all associated IP addresses.
+3. Clear existing static entries from the target Address List.
+4. Import new FQDN entries.
+5. RouterOS automatically resolves and maintains all associated IP addresses.
 
 ## Why use FQDN Address Lists?
 
