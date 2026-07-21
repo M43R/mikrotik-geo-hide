@@ -14,7 +14,6 @@ The script downloads `domains.txt` from a GitHub repository, parses the file, re
 - Imports only valid non-empty records
 - Simple logging with import statistics
 - No external dependencies
-- No RouterOS API required
 - No container or external service required
 
 ## Repository Structure
