@@ -1,4 +1,4 @@
-# geo-hide
+# Mikrotik ROS Geo hide
 
 Synchronize a MikroTik FQDN Address List from a domain list stored in GitHub.
 

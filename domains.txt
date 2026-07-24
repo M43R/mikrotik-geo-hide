@@ -1,3 +1,4 @@
+2ip.io #test domain
 adobe.io
 ai.google.dev
 aisandbox-pa.googleapis.com
@@ -62,8 +63,7 @@ grok.x.com
 guidedhacking.com
 images.contentstack.io
 intel.com
-intel.com
-intel.com
+intel.com #for test
 intel.de
 intel.se
 jetbrains.com
