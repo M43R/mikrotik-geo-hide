@@ -8,7 +8,7 @@
 #   - RouterOS 7.23.2
 #
 # Repository:
-#   https://github.com/M43R/Code/Infrastructure/mikrotik/scripts/geo-hide/
+#   https://github.com/M43R/mikrotik-geo-hide
 #
 # License:
 #   -
@@ -21,7 +21,7 @@
 # Leave empty for public repositories.
 :local githubToken ""
 
-:local rawUrl "https://raw.githubusercontent.com/M43R/Code/main/Infrastructure/mikrotik/scripts/geo-hide/domains.txt"
+:local rawUrl "https://raw.githubusercontent.com/M43R/mikrotik-geo-hide/main/domains.txt"
 :local listName "vpn_domains"
 :local fileName "domains.txt"
 
