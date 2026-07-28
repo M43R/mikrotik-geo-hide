@@ -106,5 +106,11 @@ waa-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 x.ai
 xerox.com
-# comment title
-x-kom.pl #comment
+# manually added
+redhat.com
+x-kom.pl
+auth.openai.com
+ws.chatgpt.com
+auth0.openai.com
+downloads.malwarebytes.com
+data-cdn.mbamupdates.com # malwarebytes cdn
