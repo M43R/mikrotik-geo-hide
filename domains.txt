@@ -28,7 +28,6 @@ chatgpt.com
 claude.ai
 claude.com
 claudemcpclient.com
-controlplane.tailscale.com
 copilot.microsoft.com
 d.docs.live.net
 daily-cloudcode-pa.googleapis.com
@@ -106,11 +105,8 @@ waa-pa.clients6.google.com
 webchannel-alkalimakersuite-pa.clients6.google.com
 x.ai
 xerox.com
-scdn.co
-spotify.com
-spotifycdn.com
-spotifycdn.net
 wise.com
+
 # manually added
 redhat.com
 x-kom.pl
@@ -119,3 +115,23 @@ ws.chatgpt.com
 auth0.openai.com
 downloads.malwarebytes.com
 data-cdn.mbamupdates.com # malwarebytes cdn
+atlassian.com
+knowledge.broadcom.com
+mediaexpert.pl
+mediamarkt.pl
+notebook-pa.googleapis.com
+notebook.google
+notebook.google.com
+pcmag.com
+support.broadcom.com
+
+# spotify
+scdn.co
+i.scdn.co
+spotify.com
+www.spotify.com
+spotifycdn.com
+spotifycdn.net
+audio-fa-quic.spotifycdn.com
+open.spotifycdn.com
+encore.scdn.co
