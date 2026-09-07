@@ -119,6 +119,7 @@ atlassian.com
 knowledge.broadcom.com
 mediaexpert.pl
 mediamarkt.pl
+cms-images.mmst.eu
 notebook-pa.googleapis.com
 notebook.google
 notebook.google.com
@@ -135,3 +136,15 @@ spotifycdn.net
 audio-fa-quic.spotifycdn.com
 open.spotifycdn.com
 encore.scdn.co
+
+cms-images.mmst.eu
+digikey.com
+digikeyassets.com
+www.digikey.com
+sc-a.digikeyassets.com
+sc-b.digikeyassets.com
+sc-c.digikeyassets.com
+antigravity.google
+files.openai.com
+www.dell.com
+assets-proxy.anthropic.com
